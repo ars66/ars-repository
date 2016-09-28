@@ -1,4 +1,4 @@
-<h1>Anwar header</h1>
+<h1>Anwar header<h6>
 <p> my story of studying html</p>
 <i>italic<i>
 <b>Bold<b>
@@ -8,4 +8,3 @@
 <hr>horizontal rule<hr>
 <img>images<img>
 <div>division<div>
-# ars-repository
